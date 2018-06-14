@@ -1,0 +1,1 @@
+/mnt/c/Users/annal/Documents/new_blog/reverdecer/vendor/bundle/gems/ffi-1.9.25/ext/ffi_c/libffi/src/x86/ffitarget.h
