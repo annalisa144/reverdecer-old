@@ -39,7 +39,9 @@ Create a publish script
 
 cd /mnt/c/Users/annal/Documents/new_blog/reverdecer
 
-git push origin master
+git add .
+git commit -a -m "Publishing"
+git push origin masterr
 ```
 
 [Add Comments](http://idiologos.netlify.com/2017/03/20/jekyll-and-staticman.html)
