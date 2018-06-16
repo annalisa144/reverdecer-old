@@ -18,3 +18,10 @@ defaults:
     values:
       layout: "post"
       categories: ""
+
+# Name of repository, for use with Staticman
+repository: "annalisa144/reverdecer"
+
+# Staticman comments (see staticman.yml for configuration).
+staticman:
+  branch: "master"
