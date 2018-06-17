@@ -43,8 +43,8 @@
 <!-- Comment form -->
 <p>
   <h3>Post a comment:</h3>
-  <form method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
-    <input name="options[redirect]" type="hidden" value="https://reverdecer.annalisagross.com">
+  <form method=" POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments">
+    <input name="options[redirect]" type="hidden" value="http://reverdecer.annalisagross.com/">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
       <div>
       <legend>Name</legend>
@@ -68,4 +68,3 @@
     </div>
   </form>
 </p>
-

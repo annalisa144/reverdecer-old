@@ -2,7 +2,7 @@ title: Reverdecer
 email: 
 description: Permaculture VanDwelling
 baseurl: ''
-url: 'https://reverdecer.annalisagross.com'
+url: ''
 twitter_username: annalisa144
 github_username: annalisa144
 markdown: kramdown
@@ -25,4 +25,4 @@ repository: "annalisa144/reverdecer"
 # Staticman comments (see staticman.yml for configuration).
 staticman:
   branch: "master"
-
+	
