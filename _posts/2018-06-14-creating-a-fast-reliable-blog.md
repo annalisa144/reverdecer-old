@@ -2,6 +2,7 @@
 title: Creating a Fast, Reliable Blog
 layout: post
 categories: development
+date:   2018-06-14 17:16:18 -0500
 ---
 
 [Install Windows Subsystem for Linux](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
