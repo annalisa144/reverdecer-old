@@ -7,6 +7,7 @@ twitter_username: annalisa144
 github_username: annalisa144
 markdown: kramdown
 theme: minima
+future: false
 plugins:
   - jekyll-feed
 
@@ -16,8 +17,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      date: ""
       categories: ""
+      layout: "post"
 
 # Name of repository, for use with Staticman
 repository: "annalisa144/reverdecer"
