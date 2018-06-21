@@ -1,8 +1,9 @@
 ---
-title: Creating a Fast, Reliable Blog
+title: 'Creating a Fast, Reliable Blog'
 layout: post
 categories: development
-date:   2018-06-14 17:16:18 -0500
+date: '2018-06-14 17:16:18 -0500'
+published: true
 ---
 
 [Install Windows Subsystem for Linux](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
@@ -42,7 +43,7 @@ cd /mnt/c/Users/annal/Documents/new_blog/reverdecer
 
 git add .
 git commit -a -m "Publishing"
-git push origin masterr
+git push origin master
 ```
 
 [Add Comments](http://idiologos.netlify.com/2017/03/20/jekyll-and-staticman.html)
