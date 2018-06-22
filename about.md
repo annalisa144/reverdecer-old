@@ -1,18 +1,16 @@
 ---
+title: About Reverdecer
 layout: page
-title: About
-permalink: /about/
+permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Why El Terreno Reverdercer?
+* Re-green
+* Revive
+* Reanimate
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This land we're relating to on the outskirts of [Morelia](https://en.wikipedia.org/wiki/Morelia) lives like we do - thirsty, hungry, in myriad relationship. As we spend time here we're shaping the earth to slow water, slowing erosion, watering life deeper into this land. Permaculture is one way to name the harmonious living we're striving for, but it's simply a new name for the way life was divinely designed to be: interconnected and thriving.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Phillip built this blog so we could share what we're learning, enjoying and struggling with. It's easy to comment on so we look forward to your ideas and support.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Subscribe with this rss feed: http://reverdecer.annalisagross.com/feed.xml

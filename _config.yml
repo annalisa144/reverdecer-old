@@ -7,9 +7,10 @@ twitter_username: annalisa144
 github_username: annalisa144
 markdown: kramdown
 theme: minima
-future: false
+future: true
 plugins:
   - jekyll-feed
+  - jekyll/figure
 
 defaults:
   -
