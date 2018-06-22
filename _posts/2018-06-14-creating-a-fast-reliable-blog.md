@@ -48,6 +48,6 @@ git push origin masterr
 [Add Comments](http://idiologos.netlify.com/2017/03/20/jekyll-and-staticman.html)
 
 
-[Schedule Posts](https://www.nczonline.net/blog/2018/03/scheduling-jekyll-posts-netlify/)
+[Schedule Posts](https://flaviocopes.com/netlify-auto-deploy/)
 
 [Instagram Plugin?](https://www.google.com.mx/search?q=instagram+jekyll&rlz=1C1CHBD_enUS780US780&oq=instagram+jekyll&aqs=chrome..69i57j0l5.4547j0j7&sourceid=chrome&ie=UTF-8/)
