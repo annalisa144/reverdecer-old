@@ -35,6 +35,9 @@ prose:
   media: 'media'
   metadata:
     _posts:
+      - name: "date"
+        field:
+          element: "date"
       - name: "category"
         field:
           element: "hidden"
