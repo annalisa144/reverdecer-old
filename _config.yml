@@ -37,7 +37,11 @@ prose:
     _posts:
       - name: "date"
         field:
-          element: "date"
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
       - name: "category"
         field:
           element: "hidden"
